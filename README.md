@@ -3,7 +3,7 @@
 
 The structure of the directory before running training or inference should be:
 ```
-cancer-immu-mlp
+python-api-challenge
 ├── output_data
 │   ├── cities.csv
 │   ├── Fig1.png
